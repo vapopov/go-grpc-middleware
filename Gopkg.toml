@@ -32,4 +32,5 @@
 
 [[constraint]]
   name = "google.golang.org/grpc"
-  version = "1.8.0"
+  revision = "8dea3dc473e90c8179e519d91302d0597c0ca1d1"
+  #version = "1.8.0"
